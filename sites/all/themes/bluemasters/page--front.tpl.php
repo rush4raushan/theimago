@@ -9,15 +9,7 @@
         <!--EOF:header-top-inside-left-->
         
         <!--header-top-inside-left-feed-->
-        <div id="header-top-inside-left-feed">
-            <div id="topSocial">
-            <ul>									
-                <li><a class="twitter" href="http://twitter.com/morethanthemes" title="Follow Us on Twitter!"></a></li>
-                <li><a class="facebook" href="http://www.facebook.com/pages/More-than-just-themes/194842423863081" title="Join Us on Facebook!"></a></li>
-                <li><a class="rss" title="RSS" href="#" title="Subcribe to Our RSS Feed"></a></li>
-            </ul>
-            </div>
-        </div>
+        
         <!--EOF:header-top-inside-left-feed-->
         
         <!--header-top-inside-left-right-->
@@ -74,7 +66,7 @@
                     <a href="<?php print url('node/1'); ?>"><img src="<?php print base_path() . drupal_get_path('theme', 'bluemasters') . '/images/slide-image-1.jpg'; ?>"></a>
                 </div>
                 <div class="descriptions">
-                    <div class="desc" style="display: none;">About Bluemasters</div>
+                    <div class="desc" style="display: none;">About Imagine Cup</div>
                     <div class="desc" style="display: none;">Our Portfolio</div>
                     <div class="desc" style="display: none;">Creation of Beaches</div>
                 </div>
